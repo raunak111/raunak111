@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning to **live in the terminal**
 
-- 👯 I’m looking for roles in **DevOpse and AWS**
+- 👯 I’m looking for roles in **DevOps and AWS**
 ___________________________________________________________________________________________________________________________________
 
 
