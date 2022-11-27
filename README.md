@@ -8,7 +8,13 @@
 
 - 👯 I’m looking for roles in **DevOps and AWS**
 ___________________________________________________________________________________________________________________________________
-![github contribution grid snake animation](https://raw.githubusercontent.com/raunak111/raunak111/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/raunak111/raunak111/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+I swear, I had more contributions had the snake not eaten it :snake:
+
+💁‍♂️ * offers to contribute to your organization a little more privately *
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/raunak111/raunak111/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+[github contribution grid snake animation](https://raw.githubusercontent.com/raunak111/raunak111/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **raunak111/raunak111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
