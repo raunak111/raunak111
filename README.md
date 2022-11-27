@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-username&label=Visitor+No.&color=brightgreen&style=flat-square) 
 
 ![AmpleDelightfulAmazonparrot-size_restricted](https://user-images.githubusercontent.com/37953138/204116125-1659e2fe-22c3-4456-b7fd-880ee1568fab.gif)
 
 - 🔭 I’m currently a DevOps and Cloud Engineer @ [Wipro](https://www.wipro.com/)
 
-- 🌱 I’m currently learning to **live in the terminal**
+- 🌱 I’m currently habituating myself to **live in the terminal**
 
 - 👯 I’m looking for roles in **DevOps and AWS**
 ___________________________________________________________________________________________________________________________________
