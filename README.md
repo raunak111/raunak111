@@ -2,11 +2,11 @@
 
 ![AmpleDelightfulAmazonparrot-size_restricted](https://user-images.githubusercontent.com/37953138/204116125-1659e2fe-22c3-4456-b7fd-880ee1568fab.gif)
 
-- 🔭 I’m currently a DevOps and Cloud Engineer @ [Wipro](https://www.wipro.com/)
+- 🔭 I’m currently looking for roles in Software Development in Test
 
 - 🌱 I’m currently habituating myself to **live in the terminal**
 
-- 👯 I’m looking for roles in **DevOps and AWS**
+- 👯 I’m looking for roles in **Software Testing**
 ___________________________________________________________________________________________________________________________________
 
 I swear, I had more contributions had the snake not eaten it :snake:
